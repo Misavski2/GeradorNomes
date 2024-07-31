@@ -1,0 +1,14 @@
+C:\Users\misae\Documents\MyProjects\GeradorNomes\bin\Debug\net8.0\GeradorNomes.exe
+C:\Users\misae\Documents\MyProjects\GeradorNomes\bin\Debug\net8.0\GeradorNomes.deps.json
+C:\Users\misae\Documents\MyProjects\GeradorNomes\bin\Debug\net8.0\GeradorNomes.runtimeconfig.json
+C:\Users\misae\Documents\MyProjects\GeradorNomes\bin\Debug\net8.0\GeradorNomes.dll
+C:\Users\misae\Documents\MyProjects\GeradorNomes\bin\Debug\net8.0\GeradorNomes.pdb
+C:\Users\misae\Documents\MyProjects\GeradorNomes\obj\Debug\net8.0\GeradorNomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misae\Documents\MyProjects\GeradorNomes\obj\Debug\net8.0\GeradorNomes.AssemblyInfoInputs.cache
+C:\Users\misae\Documents\MyProjects\GeradorNomes\obj\Debug\net8.0\GeradorNomes.AssemblyInfo.cs
+C:\Users\misae\Documents\MyProjects\GeradorNomes\obj\Debug\net8.0\GeradorNomes.csproj.CoreCompileInputs.cache
+C:\Users\misae\Documents\MyProjects\GeradorNomes\obj\Debug\net8.0\GeradorNomes.dll
+C:\Users\misae\Documents\MyProjects\GeradorNomes\obj\Debug\net8.0\refint\GeradorNomes.dll
+C:\Users\misae\Documents\MyProjects\GeradorNomes\obj\Debug\net8.0\GeradorNomes.pdb
+C:\Users\misae\Documents\MyProjects\GeradorNomes\obj\Debug\net8.0\GeradorNomes.genruntimeconfig.cache
+C:\Users\misae\Documents\MyProjects\GeradorNomes\obj\Debug\net8.0\ref\GeradorNomes.dll
